@@ -1,4 +1,4 @@
-![Justice for MMIP](https://github.com/Inanna1984/MMIW/blob/main/images/bloody-handprint.jpg)
+![Justice for MMIP](https://github.com/Inanna1984/MMIW/blob/main/images/istockphoto-1215930525-1024x1024.jpg?raw=true)
 ## 📚 Table of Contents
 - [Why MMIP?](#why-mmip)
 - [What's Inside](#whats-inside)
